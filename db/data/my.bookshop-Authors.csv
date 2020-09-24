@@ -1,0 +1,7 @@
+ID;name;book_ID
+1;Jhon Smith //asociación no gestionada;0
+2;M. Rajoy //asociación no gestionada;0
+3;Lola Flores //asociación M-1;0
+4;Paquita Salas //asociación M-1;0
+5;San Juan;3
+6;San Pedro;3
